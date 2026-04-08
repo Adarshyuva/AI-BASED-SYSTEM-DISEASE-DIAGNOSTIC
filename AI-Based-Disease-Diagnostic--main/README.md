@@ -75,5 +75,5 @@ A Streamlit web app that uses deep learning models to classify medical images su
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ujwalreddybattu04/AI-Based-Disease-Diagnostic-.git
+   git clone https: https://github.com/Adarshyuva/AI-BASED-SYSTEM-DISEASE-DIAGNOSTIC.git
    cd AI-Based-Disease-Diagnostic-
